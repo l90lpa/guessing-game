@@ -1,3 +1,10 @@
+//  main.cpp
+//  First
+//
+//  Created by Liam on 21/12/2015.
+//  Copyright © 2015 Liam. All rights reserved.
+//
+
 #include <iostream>
 #include "randomNumberGenerator.h"
 
