@@ -1,5 +1,5 @@
 //
-//  randomNumberGnerator.cpp
+//  randomNumberGenerator.cpp
 //  First
 //
 //  Created by Liam on 21/12/2015.
